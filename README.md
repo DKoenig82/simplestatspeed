@@ -13,7 +13,7 @@ Tipp: Put the app in the dock and right click on the app icon, choose options an
 
 ## Preview
 
-![alt text](https://github.com/DKoenig82/simplestatspeed/blob/main/demo%20images/Bildschirm%C2%ADfoto%202023-01-17%20um%2020.22.37.png)
+![alt text](https://github.com/DKoenig82/simplestatspeed/blob/main/demo.png)
 
 ## App Website
 
